@@ -22,7 +22,7 @@ Welcome to my project showcase. I am a student specializing in Computational/The
 ### ⚛️ Quantum Computing & Physics
 * **Grover's Algorithm:** Implementation and analysis of quantum search.
     * [Read Slides](./GROVER_algorithm_Slides.pdf) | [View Notebook](./GROVER_algorithm.ipynb)
-* **Biophysics mTOR:** Research presentation on cellular signaling.
+* **Biophysics mTOR:** Research presentation on protein Binder design using the Bindcraft pipeline (AI using AlphaFold2).
     * [View Presentation](./Biophysics_mTOR_PRESENTATION.pdf)
 
 ### 📈 Statistical Modeling
