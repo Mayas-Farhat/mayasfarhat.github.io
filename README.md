@@ -8,7 +8,6 @@ Welcome to my project showcase. I am a student specializing in Computational/The
 **Title: Variational Monte Carlo with neural networks for classically simulating quantum dynamics**
 * [📄 Download Full Thesis (PDF)](./THESIS_Farhat.pdf)
 * [📊 View Presentation Slides](./Thesis_PRESENTATION.pdf)
-* *Summary:* [One sentence about your main finding or method].
 
 ---
 
@@ -33,5 +32,5 @@ Welcome to my project showcase. I am a student specializing in Computational/The
 ---
 
 ## 📫 Contact & Links
-* **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
-* **Email:** [your-email@epfl.ch]
+* **LinkedIn:** [linkedin.com/in/your-profile](linkedin.com/in/mayas-farhat-a944a733b)
+* **Email:** [mayas.farhat@epfl.ch]
