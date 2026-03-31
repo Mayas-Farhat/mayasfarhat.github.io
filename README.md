@@ -1,11 +1,11 @@
 # Mayas Farhat | Portfolio
 
-Welcome to my project showcase. I am a researcher/student specializing in [Your Field, e.g., Computational Physics / Data Science]. This repository contains my Master's thesis, project reports, and implementation code.
+Welcome to my project showcase. I am a student specializing in Computational/Theoretical Physics . This repository contains my Master's thesis, some project reports, and implementation code.
 
 ---
 
 ## 🎓 Master's Thesis
-**Title: [Insert Your Thesis Title Here]**
+**Title: Variational Monte Carlo with neural networks for classically simulating quantum dynamics**
 * [📄 Download Full Thesis (PDF)](./THESIS_Farhat.pdf)
 * [📊 View Presentation Slides](./Thesis_PRESENTATION.pdf)
 * *Summary:* [One sentence about your main finding or method].
