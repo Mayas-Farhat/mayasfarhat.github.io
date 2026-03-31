@@ -18,8 +18,11 @@ Welcome to my project showcase. I am a student specializing in Computational/The
     * [Read Report](./road_segmentation_Report.pdf) | [View Code](./road_segmentation.ipynb)
 * **ML Intro:** Foundational machine learning implementations.
     * [View Notebook](./hw1_ML_intro.ipynb)
-
-### ⚛️ Quantum Computing & Physics
+* **Galaxy Detection:** Automated detection and analysis using Pytorch and sklearn.
+    * [View Notebook](./hw3_galaxies10_Mayas_Farhat.ipynb)
+ 
+      
+### Quantum Computing & Biophysics
 * **Grover's Algorithm:** Implementation and analysis of quantum search.
     * [Read Slides](./GROVER_algorithm_Slides.pdf) | [View Notebook](./GROVER_algorithm.ipynb)
 * **Biophysics mTOR:** Research presentation on protein Binder design using the Bindcraft pipeline (AI using AlphaFold2).
