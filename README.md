@@ -22,9 +22,11 @@ Welcome to my project showcase. I am a student specializing in Computational/The
     * [View Notebook](./hw3_galaxies10_Mayas_Farhat.ipynb)
  
       
-### Quantum Computing & Biophysics
+### Quantum Computing
 * **Grover's Algorithm:** Implementation and analysis of quantum search.
     * [Read Slides](./GROVER_algorithm_Slides.pdf) | [View Notebook](./GROVER_algorithm.ipynb)
+
+### Biophysics
 * **Biophysics mTOR:** Research presentation on protein Binder design using the Bindcraft pipeline (AI using AlphaFold2).
     * [View Presentation](./Biophysics_mTOR_PRESENTATION.pdf)
 
