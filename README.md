@@ -29,7 +29,7 @@ Welcome to my project showcase. I am a student specializing in Computational/The
     * [Read Report](./road_segmentation_Report.pdf) | [View Code](./road_segmentation.ipynb)
 * **ML Intro:** Foundational machine learning implementations.
     * [View Notebook](./hw1_ML_intro.ipynb)
-* **Galaxy Detection:** Automated detection and analysis using Pytorch and sklearn.
+* **Galaxy Detection:** Automated detection and analysis using Pytorch and sklearn, with and example of **transfer learning**
     * [View Notebook](./hw3_galaxies10_Mayas_Farhat.ipynb)
  
       
@@ -45,5 +45,4 @@ Welcome to my project showcase. I am a student specializing in Computational/The
 ---
 
 ## 📫 Contact & Links
-* **LinkedIn:** [linkedin.com/in/your-profile](linkedin.com/in/mayas-farhat-a944a733b)
-* **Email:** [mayas.farhat@epfl.ch]
+* **Email:** farhatmayas@gmail.com
